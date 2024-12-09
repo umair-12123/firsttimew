@@ -1,0 +1,17 @@
+{
+  "name": "chrom",
+  "version": "1.0.0",
+  "main": "openChrome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gologin": "^2.1.5",
+    "puppeteer": "^23.10.1",
+    "puppeteer-core": "^23.10.1"
+  }
+}
